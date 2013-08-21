@@ -40,7 +40,7 @@ public class MainActivity extends Activity {
 	private Timer timer = new Timer();
 	
 	// HARD CODED server IP address and port; for practice only
-	private String serverIpAddress = "127.0.0.1";//"192.168.2.104";
+	private String serverIpAddress = "192.168.2.104";//"127.0.0.1";
 	private int serverPort = 4444;
 
 
